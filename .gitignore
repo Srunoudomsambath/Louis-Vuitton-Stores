@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+.parcel-cache/
+
+# Build output
+dist/
+
+# Environment files
+.env
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+git rm -r --cached node_modules dist .parcel-cache

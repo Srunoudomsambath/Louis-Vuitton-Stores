@@ -1,0 +1,27 @@
+{
+  "name": "typescript-homework",
+  "version": "1.0.0",
+  "source": "index.html",
+  "scripts": {
+    "dev": "npx parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@parcel/packager-raw-url": "^2.15.2",
+    "@parcel/transformer-jsonld": "^2.15.2",
+    "autoprefixer": "^10.4.21",
+    "nodemon": "^3.1.10",
+    "parcel": "^2.15.2",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^4.1.8",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.8"
+  }
+}
