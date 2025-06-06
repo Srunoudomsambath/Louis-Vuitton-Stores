@@ -20,5 +20,5 @@ A fully responsive, stylish, and modern e-commerce website inspired by Louis Vui
 - JavaScript (ES6+)
 - TypeScript
 - Tailwind CSS
-- Parcel (or Vite/Webpack – if used)
-- Public API for product data (or mock API)
+- Parcel 
+- Public API for product data (mock API)
